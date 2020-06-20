@@ -25,6 +25,6 @@
         "control": "master",
         "vendor": "Silicon Labs",
         "duration": 32,
-        "baudRate": 115200
+        "baudRate": 115200 
     }
 }
